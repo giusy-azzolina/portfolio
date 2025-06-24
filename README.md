@@ -8,9 +8,9 @@ Welcome to my design portfolio, showcasing selected UX/UI projects with a strong
 
 ## Highlights
 
-- Designed following WCAG accessibility guidelines
-- User-centered and data-driven design
-- Inclusive, user-friendly flows for all user types
+- Designed in compliance with WCAG accessibility guidelines
+- User-centered and data-driven design approach  
+- Inclusive and intuitive user flows for diverse user needs  
 
 ---
 
