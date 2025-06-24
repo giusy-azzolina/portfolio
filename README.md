@@ -2,7 +2,7 @@
 
 Welcome to my design portfolio, showcasing selected UX/UI projects with a strong focus on accessibility and inclusive design.
 
-🔗 [View my full portfolio](https://bit.ly/giusy-azzolina-portfolio)
+🔗 [View my portfolio](https://bit.ly/giusy-azzolina-portfolio)
 
 ---
 
@@ -17,5 +17,3 @@ Welcome to my design portfolio, showcasing selected UX/UI projects with a strong
 ## Tools Used
 
 - Figma
-- WAVE Evaluation Tool
-- axe DevTools
