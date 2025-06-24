@@ -1,22 +1,21 @@
-# portfolio
-giusy-azzolina-portfolio
+# Giusy Azzolina – UX/UI Designer Portfolio
 
-Portfolio Giusy Azzolina, UX/UI designer.
+Welcome to my design portfolio, showcasing selected UX/UI projects with a strong focus on accessibility and inclusive design.
 
-🔗 [View the prototype on Figma](https://bit.ly/giusy-azzolina-portfolio)
+🔗 [View my full portfolio](https://bit.ly/giusy-azzolina-portfolio)
 
 ---
 
 ## Highlights
 
 - Designed following WCAG accessibility guidelines
-- User-centred and data-driven design
+- User-centered and data-driven design
 - Inclusive, user-friendly flows for all user types
 
 ---
 
-## Tools used
+## Tools Used
 
 - Figma
-- Wave
+- WAVE Evaluation Tool
 - axe DevTools
