@@ -1,8 +1,8 @@
-# Giusy Azzolina – UX/UI Designer Portfolio
+# Giusy Azzolina – UX/UI Design Portfolio
 
 Welcome to my design portfolio, showcasing selected UX/UI projects with a strong focus on accessibility and inclusive design.
 
-🔗 [View my portfolio](https://bit.ly/giusy-azzolina-portfolio)
+🔗 [View my UX/UI Design Portfolio](https://bit.ly/giusy-azzolina-portfolio)
 
 ---
 
